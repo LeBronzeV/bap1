@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 787de5a63e013c74b97e7743fdc3024a
+timeCreated: 1483435737
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TFDierama
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 77542aa684202224b8dcc8b790f0cfb9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
